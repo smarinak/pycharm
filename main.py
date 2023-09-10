@@ -1,2 +1,2 @@
-print('Hello, user')
+print('Hello, user'
 #мы поприветствовали пользователя
